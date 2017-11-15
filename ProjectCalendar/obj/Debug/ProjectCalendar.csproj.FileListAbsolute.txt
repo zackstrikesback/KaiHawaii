@@ -1,0 +1,61 @@
+c:\users\zchung\documents\visual studio 2017\Projects\ProjectCalendar\ProjectCalendar\obj\Debug\AddControl.g.cs
+c:\users\zchung\documents\visual studio 2017\Projects\ProjectCalendar\ProjectCalendar\obj\Debug\AddWindow.g.cs
+c:\users\zchung\documents\visual studio 2017\Projects\ProjectCalendar\ProjectCalendar\obj\Debug\MainWindow.g.cs
+c:\users\zchung\documents\visual studio 2017\Projects\ProjectCalendar\ProjectCalendar\obj\Debug\App.g.cs
+c:\users\zchung\documents\visual studio 2017\Projects\ProjectCalendar\ProjectCalendar\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\zchung\documents\visual studio 2017\Projects\ProjectCalendar\ProjectCalendar\obj\Debug\ProjectCalendar_MarkupCompile.cache
+c:\users\zchung\documents\visual studio 2017\Projects\ProjectCalendar\ProjectCalendar\obj\Debug\ProjectCalendar_MarkupCompile.lref
+c:\users\zchung\documents\visual studio 2017\Projects\ProjectCalendar\ProjectCalendar\bin\Debug\ProjectCalendar.exe.config
+c:\users\zchung\documents\visual studio 2017\Projects\ProjectCalendar\ProjectCalendar\bin\Debug\ProjectCalendar.exe
+c:\users\zchung\documents\visual studio 2017\Projects\ProjectCalendar\ProjectCalendar\bin\Debug\ProjectCalendar.pdb
+c:\users\zchung\documents\visual studio 2017\Projects\ProjectCalendar\ProjectCalendar\obj\Debug\AddControl.baml
+c:\users\zchung\documents\visual studio 2017\Projects\ProjectCalendar\ProjectCalendar\obj\Debug\AddWindow.baml
+c:\users\zchung\documents\visual studio 2017\Projects\ProjectCalendar\ProjectCalendar\obj\Debug\MainWindow.baml
+c:\users\zchung\documents\visual studio 2017\Projects\ProjectCalendar\ProjectCalendar\obj\Debug\ProjectCalendar.g.resources
+c:\users\zchung\documents\visual studio 2017\Projects\ProjectCalendar\ProjectCalendar\obj\Debug\ProjectCalendar.Properties.Resources.resources
+c:\users\zchung\documents\visual studio 2017\Projects\ProjectCalendar\ProjectCalendar\obj\Debug\ProjectCalendar.csproj.GenerateResource.Cache
+c:\users\zchung\documents\visual studio 2017\Projects\ProjectCalendar\ProjectCalendar\obj\Debug\ProjectCalendar.exe
+c:\users\zchung\documents\visual studio 2017\Projects\ProjectCalendar\ProjectCalendar\obj\Debug\ProjectCalendar.pdb
+C:\Users\zchung\documents\visual studio 2017\Projects\ProjectCalendar\ProjectCalendar\obj\Debug\NewProjWindow.g.cs
+C:\Users\zchung\documents\visual studio 2017\Projects\ProjectCalendar\ProjectCalendar\obj\Debug\NewProjWindow.baml
+C:\Users\zchung\documents\visual studio 2017\Projects\ProjectCalendar\ProjectCalendar\obj\Debug\Views\ProjectViewControl.g.cs
+C:\Users\zchung\documents\visual studio 2017\Projects\ProjectCalendar\ProjectCalendar\obj\Debug\Views\ProjectViewControl.baml
+C:\Users\zchung\documents\visual studio 2017\Projects\ProjectCalendar\ProjectCalendar\obj\Debug\ProjectCalendar.csprojResolveAssemblyReference.cache
+T:\Zachary\ProjectCalendar\ProjectCalendar\bin\Debug\ProjectCalendar.exe.config
+T:\Zachary\ProjectCalendar\ProjectCalendar\bin\Debug\ProjectCalendar.exe
+T:\Zachary\ProjectCalendar\ProjectCalendar\bin\Debug\ProjectCalendar.pdb
+T:\Zachary\ProjectCalendar\ProjectCalendar\obj\Debug\Views\ProjectViewControl.g.cs
+T:\Zachary\ProjectCalendar\ProjectCalendar\obj\Debug\App.g.cs
+T:\Zachary\ProjectCalendar\ProjectCalendar\obj\Debug\GeneratedInternalTypeHelper.g.cs
+T:\Zachary\ProjectCalendar\ProjectCalendar\obj\Debug\ProjectCalendar_MarkupCompile.cache
+T:\Zachary\ProjectCalendar\ProjectCalendar\obj\Debug\ProjectCalendar_MarkupCompile.lref
+T:\Zachary\ProjectCalendar\ProjectCalendar\obj\Debug\Views\ProjectViewControl.baml
+T:\Zachary\ProjectCalendar\ProjectCalendar\obj\Debug\ProjectCalendar.g.resources
+T:\Zachary\ProjectCalendar\ProjectCalendar\obj\Debug\ProjectCalendar.Properties.Resources.resources
+T:\Zachary\ProjectCalendar\ProjectCalendar\obj\Debug\ProjectCalendar.csproj.GenerateResource.Cache
+T:\Zachary\ProjectCalendar\ProjectCalendar\obj\Debug\ProjectCalendar.exe
+T:\Zachary\ProjectCalendar\ProjectCalendar\obj\Debug\ProjectCalendar.pdb
+T:\Zachary\ProjectCalendar\ProjectCalendar\obj\Debug\ProjectCalendar.csproj.ResolveComReference.cache
+T:\Zachary\ProjectCalendar\ProjectCalendar\obj\Debug\Views\AddControl.g.cs
+T:\Zachary\ProjectCalendar\ProjectCalendar\obj\Debug\Views\CalControl.g.cs
+T:\Zachary\ProjectCalendar\ProjectCalendar\obj\Debug\Views\AddControl.baml
+T:\Zachary\ProjectCalendar\ProjectCalendar\obj\Debug\Views\CalControl.baml
+T:\Zachary\ProjectCalendar\ProjectCalendar\obj\Debug\Windows\CalendarWindow.g.cs
+T:\Zachary\ProjectCalendar\ProjectCalendar\obj\Debug\Windows\MainWindow.g.cs
+T:\Zachary\ProjectCalendar\ProjectCalendar\obj\Debug\Windows\NewProjWindow.g.cs
+T:\Zachary\ProjectCalendar\ProjectCalendar\obj\Debug\Windows\NewTaskWindow.g.cs
+T:\Zachary\ProjectCalendar\ProjectCalendar\obj\Debug\Windows\TaskDisplay.g.cs
+T:\Zachary\ProjectCalendar\ProjectCalendar\obj\Debug\Windows\UserWindow.g.cs
+T:\Zachary\ProjectCalendar\ProjectCalendar\obj\Debug\Windows\CalendarWindow.baml
+T:\Zachary\ProjectCalendar\ProjectCalendar\obj\Debug\Windows\MainWindow.baml
+T:\Zachary\ProjectCalendar\ProjectCalendar\obj\Debug\Windows\NewProjWindow.baml
+T:\Zachary\ProjectCalendar\ProjectCalendar\obj\Debug\Windows\NewTaskWindow.baml
+T:\Zachary\ProjectCalendar\ProjectCalendar\obj\Debug\Windows\TaskDisplay.baml
+T:\Zachary\ProjectCalendar\ProjectCalendar\obj\Debug\Windows\UserWindow.baml
+T:\Zachary\ProjectCalendar\ProjectCalendar\bin\Debug\Resources\EmployeeList.CSV
+T:\Zachary\ProjectCalendar\ProjectCalendar\obj\Debug\ProjectCalendar_Content.g.cs
+T:\Zachary\ProjectCalendar\ProjectCalendar\bin\Debug\ProjectCalendar.exe.manifest
+T:\Zachary\ProjectCalendar\ProjectCalendar\bin\Debug\ProjectCalendar.application
+T:\Zachary\ProjectCalendar\ProjectCalendar\obj\Debug\ProjectCalendar.exe.manifest
+T:\Zachary\ProjectCalendar\ProjectCalendar\obj\Debug\ProjectCalendar.application
+T:\Zachary\ProjectCalendar\ProjectCalendar\obj\Debug\ProjectCalendar.csprojResolveAssemblyReference.cache

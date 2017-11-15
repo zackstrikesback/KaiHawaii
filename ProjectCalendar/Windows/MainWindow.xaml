@@ -1,0 +1,30 @@
+﻿<Window x:Class="ProjectCalendar.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProjectCalendar"
+        xmlns:views = "clr-namespace:ProjectCalendar.Views"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="500" Width="750">
+    <DockPanel>
+        <Menu DockPanel.Dock="Top">
+            <MenuItem Header="_File">
+                <MenuItem x:Name="uxFileNew" Header="_New Project" Click="uxFileNew_Click" />
+                <MenuItem x:Name="uxFileSave" Header="_Save" Click="uxFileSave_Click" />
+                <MenuItem x:Name="uxFileQuit" Header="_Quit" Click="uxFileQuit_Click" />
+            </MenuItem>
+            <MenuItem Header="_User">
+                <MenuItem x:Name="uxContextUserChange" Header="_Change User" Click="uxContextUserChange_Click" />
+            </MenuItem>
+        </Menu>
+        <views:ProjectViewControl x:Name="ProjViewControl"
+                                  DockPanel.Dock="Top" MinHeight="400" 
+                                  Loaded="ProjViewControl_Loaded">
+        </views:ProjectViewControl>
+        <StackPanel DockPanel.Dock="Bottom" Orientation="Horizontal" HorizontalAlignment="Right">
+            <Button MaxHeight="25" Margin="10" MinWidth="60" Click="Button_Click">Save</Button>
+            <Button MaxHeight="25" Margin="10" MinWidth="60" Click="Button_Click_1">Calendar</Button>
+        </StackPanel>
+    </DockPanel>
+</Window>
